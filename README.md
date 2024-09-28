@@ -1,4 +1,4 @@
-# blogs_advisories_reports_papers by Efstratios Lontzetidis
+# Published work by Efstratios Lontzetidis
 
 A repository to store all my published work that I have contributed to.
 
